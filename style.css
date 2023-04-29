@@ -69,6 +69,16 @@
     height:1000px;
     width: 100%;
     padding-top: 200px;
-    
-
+    background: transparent;
+}
+#footer1 ul{
+    float: right;
+}
+#footer ul li{
+    display: inline;
+    margin-right: 50px;
+}
+#footer ul li a{
+    text-decoration: none;
+    color: black; 
 }
