@@ -1,6 +1,6 @@
 #container-fluid{
     background-color:pink;
-    height: 3000px;
+    height: 2700px;
     width: 100%;
 }
 .header img{
@@ -14,8 +14,7 @@
 .header ul li{
     display: inline;
     margin-right: 50px;
-    font-size: 18px;
-   
+    font-size: 18px; 
 }
 .header ul li a{
     text-decoration: none;
@@ -26,13 +25,6 @@
     width: 80%;
     padding-left: 120px;
 } 
-/* #content1{
-    width: 25%;
-    height: 350px;
-    background-color: rgb(105, 13, 3);
-    float: left;
-    margin-left: 4%;
-} */
 #content1 img{
     height: 250px;
     width: 25%;
@@ -51,80 +43,32 @@
     float: right;
     padding-right: 30px;
 }
-#cb2{
+#cb2 h2{
     float: left;
-    padding-left: 50px;
+    padding-left: 70px;
     margin-top: 10px;
-    
-    
-
+    padding-top: 20px;
+}
+#p2{
+    float: left;
+    padding-left: 160px;
+    margin-top: 10px;
+}
+#p3{
+    float: left;
+    padding-left: 170px;
+    margin-top: 10px;
 }
 #content4 img{
     height:600px;
     width: 90%;
     padding-top: 50px;
-    padding-left:60px ;
-
+    padding-left:60px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* #footer1 img{
+#footer1 img{
     height:1000px;
     width: 100%;
     padding-top: 200px;
     
 
-} */
+}
